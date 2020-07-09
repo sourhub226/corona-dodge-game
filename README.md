@@ -1,5 +1,5 @@
 # Corona Dodge
 ### Dodge the virus and save yourself!
-<br>
-<img src="gameplay.PNG" alt="alt text" width="70%" >
+![Gameplay img](https://i.imgur.com/Qvo2XR9l.png)
+
 Made with Python PyGame.
