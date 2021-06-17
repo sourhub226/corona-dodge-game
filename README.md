@@ -10,4 +10,8 @@
 
 <img src="gameplay.png" alt="gameplay" width=650>
 
-Made with [`PyGame`](https://pypi.org/project/pygame/) in Python.
+Made with [`pygame`](https://pypi.org/project/pygame/) in Python.
+
+Install `pygame` using the following command
+
+    pip install -r requirements.txt
